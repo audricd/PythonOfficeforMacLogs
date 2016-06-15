@@ -1,0 +1,1 @@
+Jun 11 04:25:40 Audrics-Mac-mini sudo[7720] <Notice>:     root : TTY=unknown ; PWD=/private/tmp/PKInstallSandbox.MQrNz6/tmp ; USER=docpariolo ; COMMAND=/usr/bin/defaults write com.microsoft.autoupdate2 Applications -dict-add /Applications/Microsoft Office 2011/Microsoft Excel.app { "Application ID" = XCEL14; LCID = 1033; }
