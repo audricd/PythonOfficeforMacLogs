@@ -1,1 +1,0 @@
-Jun 11 04:25:40 Audrics-Mac-mini sudo[7725] <Notice>:     root : TTY=unknown ; PWD=/private/tmp/PKInstallSandbox.MQrNz6/tmp ; USER=docpariolo ; COMMAND=/usr/bin/defaults write com.microsoft.autoupdate2 Applications -dict-add /Applications/Microsoft Office 2011/Microsoft Outlook.app { "Application ID" = OPIM14; LCID = 1033; }
